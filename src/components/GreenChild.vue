@@ -34,12 +34,12 @@
         padding: 10px;
     }
 
-    header[data-v-0734b4ee] {
-        cursor: pointer;
-    }
-
     h1 {
         color: #222;
         text-align: center;
+    }
+
+    header:hover {
+        cursor: pointer;
     }
 </style>

@@ -33,7 +33,7 @@
         padding: 10px;
     }
 
-    header[data-v-47b03b74] {
+    header {
         cursor: pointer;
     }
 
